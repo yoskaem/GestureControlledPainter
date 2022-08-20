@@ -2,8 +2,7 @@ import cv2
 import numpy as np
 import time
 import os
-import HandTracker as htm
-import threading as th
+import HandTrackerModule as htm
 
 folderPath = "NewHeader"
 myList = os.listdir(folderPath)
