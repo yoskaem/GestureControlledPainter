@@ -3,7 +3,7 @@ Recognizes hand gestures to virtually paint.
 
 Run the 'VirtualPainter.py' file. It will access the 'HandTrackerModule.py' file. 
 You will also need to add 'opencv-python' and 'mediapipe' to the interpreter. (Use 'mediapipe-silicon' if you're on a Mac with Apple silicon chip)
-The images for the overlays are saved in the 'Header' and 'Size' folder. 
+The images for the overlays are saved in the 'NewHeader' and 'Size' folder. 
 
 There are five modes (hand gestures) available: 
 
