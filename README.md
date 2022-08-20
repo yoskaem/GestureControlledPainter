@@ -1,7 +1,7 @@
 # GestureControlledPainter
 Recognizes hand gestures to virtually paint. 
 
-Run the VirtualPainter.py file. It will access the HandTracker.py module file. 
+Run the 'VirtualPainter.py' file. It will access the 'HandTrackerModule.py' file. 
 You will also need to add 'opencv-python' and 'mediapipe' to the interpreter. (Use 'mediapipe-silicon' if you're on a Mac with Apple silicon chip)
 
 There are five modes (hand gestures) available: 
